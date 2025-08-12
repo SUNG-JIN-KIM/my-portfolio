@@ -80,7 +80,7 @@ const Header = ({ profile }) => {
             </a>
           </Button>
         </div>
-        <div className="inline-block px-6 py-3 bg-blue-100 text-blue-700 rounded-full mb-8 border border-blue-300 animate-pulse-slow">
+        <div className="inline-block px-6 py-3 text-blue-700 rounded-full mb-8 border border-blue-600 animate-pulse-slow">
           <span className="font-semibold">{profile.availability}</span>
         </div>
         <nav className="flex flex-wrap justify-center items-center gap-6">
