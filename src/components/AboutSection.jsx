@@ -3,7 +3,7 @@ import { FaLocationDot } from "react-icons/fa6";
 
 const AboutSection = ({ profile }) => {
   return (
-    <section id="about" className="py-20 px-4 bg-gray-50">
+    <section id="about" className="py-30 px-4 bg-gray-50">
       <div className="max-w-4xl mx-auto">
         <h2 className="text-4xl font-bold mb-12 text-center gradient-text">
           About

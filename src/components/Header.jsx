@@ -16,7 +16,7 @@ const Header = ({ profile }) => {
         loop
         muted
         className="absolute top-0 left-0 w-full h-full object-cover"
-        style={{ width: "2000px", height: "950px" }}
+        style={{ width: "2000px", height: "945px" }}
       >
         <source src="/sky.mp4" type="video/mp4" />
       </video>
