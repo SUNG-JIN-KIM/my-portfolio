@@ -5,7 +5,7 @@
     "one_liner": "신뢰 가능한 API와 자동화된 배포 파이프라인에 진심인 풀스텍 엔지니어",
     "summary": "Spring Boot와 Node/Nest로 REST/GraphQL API를 설계·구현하고, Docker·GitHub Actions·AWS로 배포 자동화를 구성해 본 신입 백엔드 엔지니어입니다. 트래픽 이슈를 마주하면 쿼리 튜닝과 캐시 전략부터 고민하고, 프런트(React) 팀과 효율적인 협업을 위해 스키마-우선 API 설계를 선호합니다.",
     "location": "Seoul, KR",
-    "email": "h662hong@gmail.com",
+    "email": "ksjcloud98@gmail.com",
     "links": {
       "github_url": "https://github.com/SUNG-JIN-KIM",
       "blog_url": "https://velog.io/",
@@ -236,7 +236,7 @@
 
   "contact": {
     "cta": "새로운 팀과 함께 더 성장하고 싶습니다. 메일로 편하게 연락 주세요!",
-    "email": "h662hong@gmail.com",
+    "email": "ksjcloud98@gmail.com",
     "kakao_openchat_url": "https://open.kakao.com/o/your-chat"
   }
 }
